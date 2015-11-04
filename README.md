@@ -3,7 +3,7 @@
 ## Description
 A simple Python script used to lookup Newegg SKUs
 
-<img src='http://i.imgur.com/SzuIviN.gif' width='500px' />
+<img src='http://i.imgur.com/2x7mBy4.gif' width='500px' />
 <figcaption>Item Lookup Example</figcaption>
 
 ## How to use
